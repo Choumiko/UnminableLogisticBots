@@ -1,0 +1,9 @@
+{
+  "name": "UnminableLogisticBots",
+  "version": "1.0.0",
+  "factorio_version": "0.14",
+  "title": "Unminable logistic bots",
+  "author": "Choumiko",
+  "homepage": "",
+  "description": "Prevents logistic bots from being mined"
+}
